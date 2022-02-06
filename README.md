@@ -1,2 +1,5 @@
 # spotify
-spotify fivem 
+
+Command
+
+/spotify
